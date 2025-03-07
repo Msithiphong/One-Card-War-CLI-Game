@@ -19,9 +19,9 @@ This project is a C++ implementation of the classic card game **War**, where two
    ./war
 
 **Example Output**
-Enter the name of the first player: Alice
-Enter the name of the second player: Bob
-How many games will they play? 10
+   Enter the name of the first player: Alice
+   Enter the name of the second player: Bob
+   How many games will they play? 10
 
 Original Deck
 
